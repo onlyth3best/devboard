@@ -14,3 +14,5 @@ a project for Fallout, made with help from stasis.hackclub.com/starter-projects/
 <br/>
 <br/> Motivation:
 <br/>  - Since I started hardware very very recently, I wanted to try my hand at something that was a little more challenging than a regular pcb but still within the realm of KiCad work. Additionally, I find routing very fun to do, hence why I had a lot of fun with this project in certain parts.
+
+<img width="540" height="828" alt="DevboardZine" src="https://github.com/user-attachments/assets/c66fe2dd-9528-4c80-bb63-e738891184bc" />
