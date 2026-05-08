@@ -21,20 +21,20 @@ a project for Fallout, made with help from stasis.hackclub.com/starter-projects/
 <br/>
 | Reference  | Qty | Value | approx price in USD | links I found|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| C1, C10 | 2 | value | price | links |
-| C2, C3, C4, C5, C6, C7, C8, C9, C11, C12 | 10 | value | price | links |
-| C13, C14 | 2 | value | price | links |
-| C15, C16 | 2 | value | price | links |
-| J1 | 1 | value | price | links |
-| J2, J3 | 2 | value | price | links |
-| J4 | 1 | value | price | links |
-| R1, R2 | 2 | value | price | links |
-| R3, R4 | 2 | value | price | links |
-| R5, R7 | 2 | value | price | links |
-| R6 | 1 | value | price | links |
-| SW1 | 1 | value | price | links |
-| U1 | 1 | value | price | links |
-| U3 | 1 | value | price | links |
-| U4 | 1 | value | price | links |
-| Y1 | 1 | value | price | links |
+| C1, C10 | 2 | C_0402_1005Metric | price | links |
+| C2, C3, C4, C5, C6, C7, C8, C9, C11, C12 | 10 | C_0402_1005Metric | price | links |
+| C13, C14 | 2 | C_0402_1005Metric | price | links |
+| C15, C16 | 2 | C_0402_1005Metric | price | links |
+| J1 | 1 | USB_C_Receptacle_HRO_TYPE-C-31-M-12 | price | links |
+| J2, J3 | 2 | PinHeader_1x20_P2.54mm_Vertical | price | links |
+| J4 | 1 | R_0402_1005Metric | PinHeader_1x20_P2.54mm_Vertical | links |
+| R1, R2 | 2 | R_0402_1005Metric | price | links |
+| R3, R4 | 2 | R_0402_1005Metric | price | links |
+| R5, R7 | 2 | R_0402_1005Metric | price | links |
+| R6 | 1 | R_0402_1005Metric | price | links |
+| SW1 | 1 | SW_Push_SPST_NO_Alps_SKRK | price | links |
+| U1 | 1 | QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm | price | links |
+| U3 | 1 | SOIC-8_5.3x5.3mm_P1.27mm | price | links |
+| U4 | 1 | TO-92_Inline | price | links |
+| Y1 | 1 | Crystal_SMD_3225-4Pin_3.2x2.5mm | price | links |
 
