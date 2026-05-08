@@ -21,9 +21,20 @@ a project for Fallout, made with help from stasis.hackclub.com/starter-projects/
 <br/>
 | Reference  | Qty | Value | approx price in USD | links I found|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| U1  | 1 | Seeed Studio XIAO RP2040 | $ 3.9 | [link](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?srsltid=AfmBOor69gTiD1i0IEN-NgJbt-CYkVZTgTP96P1gkFrOACfPGnEJtVJv) / microcontroller board |
-| D1, D2, D3  | 3 | LED / L08R5000Q1 | $ 0.1 | https://jlcpcb.com/partdetail/JLCPCBAssembly-LED_NCD0805C1/C9900035298 |
-| R1, R2, R3  | 3 | resistor | $ 0.01 | https://jlcpcb.com/partdetail/TyoHM-RMC_0603_10K_JN/C5362358 |
-| SW1, Sw2, SW3  | 3 | Button/Switch | $ 0.5 | [https://jlcpcb.com/partdetail/ESwitch-TL3301AF160QG/C273519 |
-| BZ1  | 1 | Buzzer | % 0.5 | https://jlcpcb.com/partdetail/Jiangsu_HuanengElec-HND2310B/C2877 |
+| C1, C10 | 2 | value | price | links |
+| C2, C3, C4, C5, C6, C7, C8, C9, C11, C12 | 10 | value | price | links |
+| C13, C14 | 2 | value | price | links |
+| C15, C16 | 2 | value | price | links |
+| J1 | 1 | value | price | links |
+| J2, J3 | 2 | value | price | links |
+| J4 | 1 | value | price | links |
+| R1, R2 | 2 | value | price | links |
+| R3, R4 | 2 | value | price | links |
+| R5, R7 | 2 | value | price | links |
+| R6 | 1 | value | price | links |
+| SW1 | 1 | value | price | links |
+| U1 | 1 | value | price | links |
+| U3 | 1 | value | price | links |
+| U4 | 1 | value | price | links |
+| Y1 | 1 | value | price | links |
 
