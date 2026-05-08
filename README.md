@@ -1,5 +1,6 @@
 # devboard
 a project for Fallout, made with help from stasis.hackclub.com/starter-projects/devboard
+<br/> /kicad has relevant KiCad files, /3dmodels has the .STEP files, /prod has gerber files~
 <img width="1234" height="1162" alt="3d model" src="https://github.com/user-attachments/assets/570f8f33-88ab-48ca-ac09-4169da12091c" />
 
 
