@@ -19,20 +19,20 @@ a project for Fallout, made with help from stasis.hackclub.com/starter-projects/
 
 <br/> BOM:
 <br/>
-| Reference  | Qty | Value | approx price in USD | links I found|
+| Reference  | Qty | Value | approx price in USD | links I found, not sure if they're all 100% correct though :heavysob: |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| C1, C10 | 2 | C_0402_1005Metric | 0.02 | links |
-| C2, C3, C4, C5, C6, C7, C8, C9, C11, C12 | 10 | C_0402_1005Metric | 0.10| links |
-| C13, C14 | 2 | C_0402_1005Metric | 0.02 | links |
-| C15, C16 | 2 | C_0402_1005Metric | 0.02 | links |
-| J1 | 1 | USB_C_Receptacle_HRO_TYPE-C-31-M-12 | 0.10–0.25 | links |
-| J2, J3 | 2 | PinHeader_1x20_P2.54mm_Vertical | 0.20–0.80 | links |
-| J4 | 1 | R_0402_1005Metric | 0.01 | links |
-| R1, R2 | 2 | R_0402_1005Metric | 0.02 | links |
-| R3, R4 | 2 | R_0402_1005Metric | 0.02 | links |
-| R5, R7 | 2 | R_0402_1005Metric | 0.02 | links |
-| R6 | 1 | R_0402_1005Metric | 0.01 | links |
-| SW1 | 1 | SW_Push_SPST_NO_Alps_SKRK | 0.10–0.50 | links |
+| C1, C10 | 2 | C_0402_1005Metric | 0.02 | [links](https://www.lcsc.com/search?q=0402+capacito) |
+| C2, C3, C4, C5, C6, C7, C8, C9, C11, C12 | 10 | C_0402_1005Metric | 0.10| [links](https://www.lcsc.com/search?q=0402+capacito) |
+| C13, C14 | 2 | C_0402_1005Metric | 0.02 | [links](https://www.lcsc.com/search?q=0402+capacito) |
+| C15, C16 | 2 | C_0402_1005Metric | 0.02 | [links](https://www.lcsc.com/search?q=0402+capacito) |
+| J1 | 1 | USB_C_Receptacle_HRO_TYPE-C-31-M-12 | 0.10–0.25 | [links](https://www.lcsc.com/product-detail/USB-Type-C_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html) |
+| J2, J3 | 2 | PinHeader_1x20_P2.54mm_Vertical | 0.20–0.80 | [links](https://www.lcsc.com/search?q=1x20+2.54mm+pin+header) |
+| J4 | 1 | R_0402_1005Metric | 0.01 | [links](https://www.lcsc.com/search?q=0402+resistor) |
+| R1, R2 | 2 | R_0402_1005Metric | 0.02 | [links](https://www.digikey.com/en/products/filter/resistor-kits/129) |
+| R3, R4 | 2 | R_0402_1005Metric | 0.02 | [links](https://www.digikey.com/en/products/filter/resistor-kits/129) |
+| R5, R7 | 2 | R_0402_1005Metric | 0.02 | [links](https://www.digikey.com/en/products/filter/resistor-kits/129) |
+| R6 | 1 | R_0402_1005Metric | 0.01 | [links](https://www.digikey.com/en/products/filter/resistor-kits/129) |
+| SW1 | 1 | SW_Push_SPST_NO_Alps_SKRK | 0.10–0.50 | [links](https://www.lcsc.com/search?q=Alps+SKRK) |
 | U1 | 1 | QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm | 1.00–2.00 | links |
 | U3 | 1 | SOIC-8_5.3x5.3mm_P1.27mm | 0.30–0.80 | links |
 | U4 | 1 | TO-92_Inline | 0.05–0.30 | links |
