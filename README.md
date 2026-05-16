@@ -33,8 +33,8 @@ a project for Fallout, made with help from stasis.hackclub.com/starter-projects/
 | R5, R7 | 2 | R_0402_1005Metric | 0.02 | [links](https://www.digikey.com/en/products/filter/resistor-kits/129) |
 | R6 | 1 | R_0402_1005Metric | 0.01 | [links](https://www.digikey.com/en/products/filter/resistor-kits/129) |
 | SW1 | 1 | SW_Push_SPST_NO_Alps_SKRK | 0.10–0.50 | [links](https://www.lcsc.com/search?q=Alps+SKRK) |
-| U1 | 1 | QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm | 1.00–2.00 | links |
-| U3 | 1 | SOIC-8_5.3x5.3mm_P1.27mm | 0.30–0.80 | links |
-| U4 | 1 | TO-92_Inline | 0.05–0.30 | links |
-| Y1 | 1 | Crystal_SMD_3225-4Pin_3.2x2.5mm | 0.05–0.20  | links |
+| U1 | 1 | QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm | 1.00–2.00 | [links](https://www.raspberrypi.com/products/rp2040) |
+| U3 | 1 | SOIC-8_5.3x5.3mm_P1.27mm | 0.30–0.80 | [links](https://www.lcsc.com/product-detail/NOR-FLASH_Winbond-Elec-W25Q64JVSSIQ_C179171.html) |
+| U4 | 1 | TO-92_Inline | 0.05–0.30 | [links](https://www.lcsc.com/product-detail/Bipolar-Transistors-BJT_ON-Semicon-2N3904_C20526.html) |
+| Y1 | 1 | Crystal_SMD_3225-4Pin_3.2x2.5mm | 0.05–0.20  | [links](https://www.lcsc.com/product-detail/C13738.html) |
 
