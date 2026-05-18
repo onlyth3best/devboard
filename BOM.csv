@@ -1,0 +1,17 @@
+Reference,Qty,Value,approx price in USD,links
+"C1, C10",2,C_0402_1005Metric,0.02,https://www.kondik.cz/cl05a105kp5nnnc/
+"C2, C3, C4, C5, C6, C7, C8, C9, C11, C12",10,C_0402_1005Metric,0.1,https://www.kondik.cz/cl05a105kp5nnnc/
+"C13, C14",2,C_0402_1005Metric,0.02,https://www.kondik.cz/cc0402krx7r7bb104-kondenzator-keramicky-smd-0402-100nf-16v/
+"C15, C16",2,C_0402_1005Metric,0.02,https://www.kondik.cz/cc0402krx7r7bb104-kondenzator-keramicky-smd-0402-100nf-16v/
+J1,1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,0.10–0.25,https://www.lcsc.com/product-detail/USB-Type-C_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html
+"J2, J3",2,PinHeader_1x20_P2.54mm_Vertical,0.20–0.80,https://www.lcsc.com/search?q=1x20+2.54mm+pin+header
+J4,1,R_0402_1005Metric,0.01,https://www.lcsc.com/search?q=0402+resistor
+"R1, R2",2,R_0402_1005Metric,0.02,https://www.digikey.com/en/products/filter/resistor-kits/129
+"R3, R4",2,R_0402_1005Metric,0.02,https://www.digikey.com/en/products/filter/resistor-kits/129
+"R5, R7",2,R_0402_1005Metric,0.02,https://www.digikey.com/en/products/filter/resistor-kits/129
+R6,1,R_0402_1005Metric,0.01,https://www.digikey.com/en/products/filter/resistor-kits/129
+SW1,1,SW_Push_SPST_NO_Alps_SKRK,0.10–0.50,https://www.lcsc.com/search?q=Alps+SKRK
+U1,1,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,1.00–2.00,https://www.raspberrypi.com/products/rp2040
+U3,1,SOIC-8_5.3x5.3mm_P1.27mm,0.30–0.80,https://www.lcsc.com/product-detail/NOR-FLASH_Winbond-Elec-W25Q64JVSSIQ_C179171.html
+U4,1,TO-92_Inline,0.05–0.30,https://www.lcsc.com/product-detail/Bipolar-Transistors-BJT_ON-Semicon-2N3904_C20526.html
+Y1,1,Crystal_SMD_3225-4Pin_3.2x2.5mm,0.05–0.20,https://www.lcsc.com/product-detail/C13738.html
