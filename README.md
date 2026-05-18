@@ -21,10 +21,10 @@ a project for Fallout, made with help from stasis.hackclub.com/starter-projects/
 <br/>
 | Reference  | Qty | Value | approx price in USD | links I found, not sure if they're all 100% correct though :heavysob: |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| C1, C10 | 2 | C_0402_1005Metric | 0.02 | [links](https://www.lcsc.com/search?q=0402+capacito) |
-| C2, C3, C4, C5, C6, C7, C8, C9, C11, C12 | 10 | C_0402_1005Metric | 0.10| [links](https://www.lcsc.com/search?q=0402+capacito) |
-| C13, C14 | 2 | C_0402_1005Metric | 0.02 | [links](https://www.lcsc.com/search?q=0402+capacito) |
-| C15, C16 | 2 | C_0402_1005Metric | 0.02 | [links](https://www.lcsc.com/search?q=0402+capacito) |
+| C1, C10 | 2 | C_0402_1005Metric | 0.02 | [links](https://www.kondik.cz/cl05a105kp5nnnc/) |
+| C2, C3, C4, C5, C6, C7, C8, C9, C11, C12 | 10 | C_0402_1005Metric | 0.10| [links](https://www.kondik.cz/cl05a105kp5nnnc/) |
+| C13, C14 | 2 | C_0402_1005Metric | 0.02 | [links](https://www.kondik.cz/cc0402krx7r7bb104-kondenzator-keramicky-smd-0402-100nf-16v/) |
+| C15, C16 | 2 | C_0402_1005Metric | 0.02 | [links]([https://www.lcsc.com/search?q=0402+capacito](https://www.kondik.cz/cc0402krx7r7bb104-kondenzator-keramicky-smd-0402-100nf-16v/)) |
 | J1 | 1 | USB_C_Receptacle_HRO_TYPE-C-31-M-12 | 0.10–0.25 | [links](https://www.lcsc.com/product-detail/USB-Type-C_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html) |
 | J2, J3 | 2 | PinHeader_1x20_P2.54mm_Vertical | 0.20–0.80 | [links](https://www.lcsc.com/search?q=1x20+2.54mm+pin+header) |
 | J4 | 1 | R_0402_1005Metric | 0.01 | [links](https://www.lcsc.com/search?q=0402+resistor) |
