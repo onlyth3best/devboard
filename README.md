@@ -37,4 +37,5 @@ a project for Fallout, made with help from stasis.hackclub.com/starter-projects/
 | U3 | 1 | SOIC-8_5.3x5.3mm_P1.27mm | 0.30–0.80 | [links](https://www.lcsc.com/product-detail/NOR-FLASH_Winbond-Elec-W25Q64JVSSIQ_C179171.html) |
 | U4 | 1 | TO-92_Inline | 0.05–0.30 | [links](https://www.lcsc.com/product-detail/Bipolar-Transistors-BJT_ON-Semicon-2N3904_C20526.html) |
 | Y1 | 1 | Crystal_SMD_3225-4Pin_3.2x2.5mm | 0.05–0.20  | [links](https://www.lcsc.com/product-detail/C13738.html) |
+|  |  |  | total BOM price ~ 2.95, with JLCPCB cost it's around 5.95 USD |  |
 
