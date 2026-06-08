@@ -6,8 +6,9 @@ a project for Fallout, made with help from stasis.hackclub.com/starter-projects/
 <br/>
 <br/>
 <img width="1234" height="1162" alt="3dmodel" src="https://github.com/user-attachments/assets/fc29be8a-67df-4f95-b78c-bce0b340b0e7" />
-<img width="300" height="660" alt="pcb editor" src="https://github.com/user-attachments/assets/a84ecda0-ac98-4b52-b42e-2df32b509cc2" />
-<img width="939" height="658" alt="schematics" src="https://github.com/user-attachments/assets/d94d43e9-a3d2-4dee-9128-a593b5eea717" />
+<img width="331" height="756" alt="pcb" src="https://github.com/user-attachments/assets/496bd275-675e-4381-866f-6c918ee16336" />
+<img width="1010" height="687" alt="schematics" src="https://github.com/user-attachments/assets/34984c8e-db9b-4590-823e-4a89d8fd7121" />
+
 
 <br/> Setup guide:
 <br/>  - the only setup needed in this sense, if I understand correctly, is using the files in this repo to upload to JLCPCB or something similar in order to receive a physical version…
