@@ -5,9 +5,12 @@ a project for Fallout, made with help from stasis.hackclub.com/starter-projects/
 <br/> "_A development board is a specially designed printed circuit board (PCB) that integrates a microcontroller or microprocessor along with essential components such as input/output pins, power supply interfaces, USB connectors, LEDs, and often onboard sensors._" ([source](https://regentelectronics.com/microcontrollers/what-is-a-development-board-introduction-types-and-applications))
 <br/>
 <br/>
-<img width="1234" height="1162" alt="3dmodel" src="https://github.com/user-attachments/assets/fc29be8a-67df-4f95-b78c-bce0b340b0e7" />
-<img width="331" height="756" alt="pcb" src="https://github.com/user-attachments/assets/496bd275-675e-4381-866f-6c918ee16336" />
-<img width="1010" height="687" alt="schematics" src="https://github.com/user-attachments/assets/34984c8e-db9b-4590-823e-4a89d8fd7121" />
+
+<img width="1234" height="1162" alt="3d MODEL" src="https://github.com/user-attachments/assets/7d0b0c10-6afd-46a3-8b7b-79ad4df4246b" />
+<img width="187" height="459" alt="PCB" src="https://github.com/user-attachments/assets/4d593f59-4c31-4d67-8ddc-b612f007bad5" />
+
+<img width="884" height="579" alt="schematic" src="https://github.com/user-attachments/assets/f55ecc26-0099-4465-b3f6-ee56d5200b31" />
+
 
 
 <br/> Setup guide:
