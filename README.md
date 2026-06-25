@@ -6,11 +6,9 @@ a project for Fallout, made with help from stasis.hackclub.com/starter-projects/
 <br/>
 <br/>
 
-<img width="1234" height="1162" alt="3d MODEL" src="https://github.com/user-attachments/assets/7d0b0c10-6afd-46a3-8b7b-79ad4df4246b" />
-<img width="187" height="459" alt="PCB" src="https://github.com/user-attachments/assets/4d593f59-4c31-4d67-8ddc-b612f007bad5" />
-
-<img width="884" height="579" alt="schematic" src="https://github.com/user-attachments/assets/f55ecc26-0099-4465-b3f6-ee56d5200b31" />
-
+<img width="454" height="627" alt="3d model" src="https://github.com/user-attachments/assets/a529dae6-e2bc-4676-a958-eaa0b4881867" />
+<img width="244" height="533" alt="pcb" src="https://github.com/user-attachments/assets/025f0864-987b-4240-b2b2-1db676d81f4e" />
+<img width="1057" height="705" alt="schematic" src="https://github.com/user-attachments/assets/444b1127-fe3e-40f8-8c57-08b8240a1e3d" />
 
 
 <br/> Setup guide:
